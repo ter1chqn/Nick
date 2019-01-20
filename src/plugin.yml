@@ -1,0 +1,5 @@
+main: me.teri.Main
+name: Nick
+version: 1.0
+commands:
+  nick:
